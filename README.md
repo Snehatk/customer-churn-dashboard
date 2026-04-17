@@ -1,7 +1,7 @@
 # 📊 Customer Churn Prediction Dashboard
 ## 🎥 Project Demo
 
-[▶️ Watch Demo Video](https://drive.google.com/file/d/1URYWkEFBV3yD8PExqYZNGHghtrhDbKNk/view?usp=drive_link)
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1LYmaDKGerDfNPLMVXgBI-irZxj3x81kj/view?usp=sharing)
 
 ## 🚀 Project Overview
 
